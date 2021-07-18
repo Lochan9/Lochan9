@@ -2,7 +2,7 @@
 
 I am a 2nd Year Student at Sathyabama institution of science and technology currently undertaking in Computer Science and Engineering.
 ## I know the following languages:-
-* PYTHON[Django]
+* PYTHON [Django]
 * C/C+++[intermediate]
 * CYBERSECURITY/NETWORKING [intermediate]
 * Machine learning
