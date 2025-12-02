@@ -42,14 +42,6 @@ An **MLOps-integrated** system that automates invoice extraction, validation, an
 
 ---
 
-### 🔹 Life Event Detection System
-An adaptive **Financial Life Coach** that detects user life-events via transaction graphs.  
-**Stack:** Graph Neural Networks | NetworkX | DVC | FastAPI  
-
-**Goal:** Enable contextual financial recommendations using federated learning and privacy-preserving event detection.
-
----
-
 ## 📊 Recent Coursework
 - **IE7374 – Machine Learning Operations**
 - **IE7300 – Foundations of Data Analytics Engineering**
