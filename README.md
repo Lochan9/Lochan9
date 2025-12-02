@@ -48,9 +48,3 @@ An **MLOps-integrated** system that automates invoice extraction, validation, an
 - **IE7275 – Data Management for Analytics**
 
 ---
-
-## 📫 Let’s Connect
-🌐 [Portfolio Website](#)  
-💼 [LinkedIn](https://www.linkedin.com/in/lochanenugula)  
-🐙 [GitHub Projects](https://github.com/lochan-enugula)  
-📧 enugula.l@northeastern.edu  
